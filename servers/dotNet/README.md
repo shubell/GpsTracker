@@ -12,3 +12,5 @@ and add your adsense channel number and publisher id to line 206 and 207:
     user_adsense.publisherID = "YOUR_PUBLISHER_ID";    
 
 https://github.com/nickfox/GpsTracker/tree/master/servers/dotNet/javascript/leaflet-plugins/google.js
+
+IIS server needs to have .Net globalization set to "English (United States) (en-US)" if it is not your default system setting.
